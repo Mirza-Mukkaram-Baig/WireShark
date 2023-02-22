@@ -1,4 +1,4 @@
-### Readme for Kali Linux Installation and Security Tasks
+# Readme for Kali Linux Installation and Security Tasks
 This guide provides instructions for completing a series of tasks related to Kali Linux installation and network security. The following tasks will be covered:
 1. Installing Kali Linux
 2. Getting familiar with the Kali GUI
